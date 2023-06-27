@@ -20,6 +20,7 @@
                 </div>
                 <div class="card border-0 shadow-sm rounded">
                     <div class="card-body">
+                        
                         <a href="{{ route('posts.create') }}" class="btn btn-md btn-warning mb-3">Tambah Data</a>
                         <table class="table table-bordered">
                             <thead>
